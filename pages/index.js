@@ -13,7 +13,7 @@ export default function Home() {
     10 things that require Zero Talent
 <ol>
 <li>1. Being On Time</li>
-    <li> 1. Being On Time </li>
+    <li> 1. Being On Time. </li>
     <li> 2. Making An Effort. </li>
     <li> 3. Being High Energy. </li>
     <li> 4. Having A Positive Attitude </li>
