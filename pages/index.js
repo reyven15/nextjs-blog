@@ -14,7 +14,7 @@ export default function Home() {
 <ol>
 <li>1. Being On Time</li>
     <li> 1. Being On Time </li>
-    <li> 2. Making An Effort </li>
+    <li> 2. Making An Effort. </li>
     <li> 3. Being High Energy </li>
     <li> 4. Having A Positive Attitude </li>
     <li> 5. Being Passionate </li>
